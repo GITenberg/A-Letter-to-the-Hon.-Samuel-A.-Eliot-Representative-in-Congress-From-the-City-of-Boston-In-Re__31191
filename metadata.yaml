@@ -1,0 +1,38 @@
+_repo: A-Letter-to-the-Hon.-Samuel-A.-Eliot-Representative-in-Congress-From-the-City-of-Boston-In-Re__31191
+_version: 0.1.0
+contributor:
+  dubious_author:
+    agent_name: Jay, William
+    birthdate: 1789
+    deathdate: 1858
+    gutenberg_agent_id: '42759'
+    url: http://www.gutenberg.org/2009/agents/42759
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dexter, Franklin
+    alias: Dexter, F. B. (Franklin B.)
+    birthdate: 1793
+    deathdate: 1857
+    gutenberg_agent_id: '35051'
+    url: http://www.gutenberg.org/2009/agents/35051
+description: Also ascribed to William Jay.
+gutenberg_issued: '2010-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31191'
+  lccn: '10034379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eliot, Samuel Atkins, 1798-1862'
+- !lcsh 'Slavery -- United States'
+- !lcsh 'Fugitive slave law of 1850'
+- !lcc 'E300'
+title: A Letter to the Hon. Samuel A. Eliot, Representative in Congress From the City
+  of Boston, In Reply to His Apology For Voting For the Fugitive Slave Bill.
+url: http://www.gutenberg.org/ebooks/31191
