@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '35051'
     url: http://www.gutenberg.org/2009/agents/35051
 description: Also ascribed to William Jay.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31191#A-Letter-to-the-Hon.-Samuel-A.-Eliot-Representative-in-Congress-From-the-City-of-Boston-In-Re_
 gutenberg_issued: '2010-02-05'
 gutenberg_type: Text
 identifiers:
